@@ -24,7 +24,7 @@ int currentTab = -1;
 DO NOT COPY & PASTE FUSIONS MENU!
 
 Fusions menu is really not flexible at all, I *highly* discourage copying and pasting from fusions menu.
-Although it looks good, it was my (deadshell's) first time making an imgui menu and it was kind of rushed to release fusion.
+Although it looks good, it was my (redacted's) first time making an imgui menu and it was kind of rushed to release fusion.
 
 */
 

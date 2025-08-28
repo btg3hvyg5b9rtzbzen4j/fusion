@@ -21,7 +21,7 @@ however it does not allow you to exceed the players head or feet, meaning you wo
 Although this can bypass some servers, it does not bypass all of them.
 This is because some anticheats don't really give a damn where you are aiming, they mostly want to see how you rotate when you move, and that is where they catch you.
 
-I (deadshell) can create a bypass for it in the future.
+I (redacted) can create a bypass for it in the future.
 
 For now, if you want to use fusion, just use it with weak settings.
 
